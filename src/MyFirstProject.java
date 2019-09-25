@@ -7,6 +7,7 @@ public class MyFirstProject {
         System.out.println("commitowania");
         System.out.println("Second change");
         System.out.println("Third change");
+        System.out.println("Good enough");
 
     }
 }
